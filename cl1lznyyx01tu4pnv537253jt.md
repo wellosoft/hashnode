@@ -1,6 +1,6 @@
 ## How to Solve Squash Failed on GitLab
 
-So you're trying to merge one of the major features with lots of changes and merge conflicts then suddenly came out with this error:
+So I'm trying to merge one of the major features with lots of changes and merge conflicts then suddenly came out with this error:
 
 ```
 Squashing Failed: Squash the commits locally, resolve any conflicts, then push the branch. Try again.
@@ -9,7 +9,7 @@ Squashing Failed: Squash the commits locally, resolve any conflicts, then push t
 
 ![Screen Shot 2022-04-05 at 16.13.16.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1649150015956/9danrs7DX.png)
 
-That's happened to me several times. It took me some time before I gave up with it and get moved on with duplicating my merge requests (and asking for a re-approval from my workmate).
+It's happened to me several times. It took me some time before I gave up with it and get moved on with duplicating my merge requests (and asking for a re-approval from my workmate).
 
 Now, not anymore. So here's how I solve it. 
 
