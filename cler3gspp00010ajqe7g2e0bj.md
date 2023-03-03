@@ -3,6 +3,7 @@ title: "How to Install Unity and Visual Studio on Mac without Admin Rights"
 datePublished: Thu Mar 02 2023 12:40:08 GMT+0000 (Coordinated Universal Time)
 cuid: cler3gspp00010ajqe7g2e0bj
 slug: how-to-install-unity-and-visual-studio-on-mac-without-admin-rights
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1677805419287/b5bf6f3b-d3db-4e49-b90f-409430becc01.png
 tags: macos, unity3d
 
 ---
