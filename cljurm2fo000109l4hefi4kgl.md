@@ -30,7 +30,7 @@ This page contains two modes: **Start from a template** or **Upload or clone fro
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1688797721389/0df3417a-2377-4639-872e-7687833c1732.png align="center")
 
-The next step is to drop your project folder into the uploader, then choose what's the kind of framework you're using in that project, [like this](https://www.youtube.com/shorts/0WFk-qh2Cc0):
+The next step is to drop your project folder into the uploader, then choose what's the kind of framework you're using in that project, [like the animation below](https://www.youtube.com/shorts/0WFk-qh2Cc0). It will generate a script about how the project will be initiated.
 
 ![](https://github.com/domcloud/domcloud/assets/20214420/1427ed96-0668-41ec-acca-50e5cb3c44a5 align="center")
 
@@ -51,5 +51,7 @@ After it is finished, your website should be accessible over the Internet!
 Continue editing the website online via tools like an online file browser and Visual Studio Code remote development using SSH (my favorite). [Read more about it in the documentation](https://domcloud.co/docs/intro/getting-started#managing-website).
 
 If your website setup comes into a problem, there is [a tool to check its connection](https://domcloud.co/blog/improving-ux-for-newbies#connection-check-api). It should be able to troubleshoot common HTTPS and DNS problems.
+
+This tutorial doesn't cover database migration, but some framework scripts do already handle that (check the script!). If in the end, your website has a database problem, you might need to initiate the database yourself. [Check the documentation](https://domcloud.co/docs/features/database/) for that.
 
 That's it! I hope this brings new excitement into learning website development. Let me know what you think about it 🤓
