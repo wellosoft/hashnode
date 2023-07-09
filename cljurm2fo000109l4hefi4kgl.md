@@ -32,7 +32,7 @@ This page contains two modes: **Start from a template** or **Upload or clone fro
 
 The next step is to drop your project folder into the uploader, then choose what's the kind of framework you're using in that project, [like this](https://www.youtube.com/shorts/0WFk-qh2Cc0):
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1688810266337/b2cdc744-8556-4486-9e36-2b57a21d40c5.png align="center")
+![](https://github.com/domcloud/domcloud/assets/20214420/1427ed96-0668-41ec-acca-50e5cb3c44a5 align="center")
 
 Then fill in the unique name, website region, also with a custom domain name (if you own one), then click **Add a website**. (Read more about [using a custom domain](https://domcloud.co/docs/features/dns))
 
